@@ -24,7 +24,7 @@ public class Process {
         Result result = new Result();
         AnnotatorParent annotatorParent = new AnnotatorParent();
         try (BufferedReader reader = new BufferedReader
-                (new InputStreamReader(new FileInputStream("C:\\workspace\\csv-to-json\\src\\main\\resources\\paper_data_annotation - paper_data_annotation (2).csv"), StandardCharsets.UTF_8))) {
+                (new InputStreamReader(new FileInputStream("C:\\workspace\\csv-to-json\\src\\main\\resources\\input.csv"), StandardCharsets.UTF_8))) {
             String line;
             while ((line = reader.readLine()) != null) {
                 if (!line.isBlank() && Character.isDigit(line.charAt(0)) && annotatorParent.getPost_id() != null) {
