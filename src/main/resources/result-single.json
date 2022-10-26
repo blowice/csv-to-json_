@@ -1,0 +1,99 @@
+{
+  "202217154743326539_tweeter": {
+    "post_id": "202217154743326539_tweeter",
+    "annotators": [
+      {
+        "label": "hatespeech ",
+        "annotator_id": "Abreen",
+        "target": [
+          "Refugee'"
+        ]
+      },
+      {
+        "label": "hatespeech'",
+        "annotator_id": "Clary",
+        "target": [
+          "Refugee'"
+        ]
+      },
+      {
+        "label": "hatespeech'",
+        "annotator_id": "Lei",
+        "target": [
+          "Refugee'"
+        ]
+      }
+    ],
+    "rationales": [
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "post_tokens": [
+      "",
+      "Communist",
+      "wetback",
+      "douchebag",
+      "is",
+      "such",
+      "a",
+      "drag",
+      "on",
+      "his",
+      "team",
+      "send",
+      "him",
+      "back",
+      "to",
+      "cuba"
+    ]
+  }
+}

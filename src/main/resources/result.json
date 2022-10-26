@@ -1,0 +1,924 @@
+{
+  "202271558011728624_tweeter" : {
+    "post_id" : "202271558011728624_tweeter",
+    "annotators" : [ {
+      "label" : "Hatespeech",
+      "annotator_id" : "",
+      "target" : [ "Target communities" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ ], [ 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0 ] ],
+    "post_tokens" : [ "Hopefully", "they", "investigate", "the", "diseases", "that", "immigrants", "bring", "into", "America", "like", "AIDS", "and", "EBOLA", "and" ]
+  },
+  "202231094297334850_tweeter" : {
+    "post_id" : "202231094297334850_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "You", "forgot", "the", "mass", "uncontrolled", "3rd", "world", "immigration", "plus", "the", "crime", "and", "disease", "they", "bring", "into", "the", "UK" ]
+  },
+  "202212467321060031_tweeter" : {
+    "post_id" : "202212467321060031_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "We", "should", "close", "the", "borders", "until", "the", "Wall", "is", "built", "They", "never", "assimilate", "amp", "bring", "disease", "that", "s", "been", "eradicated", "\\u2026" ]
+  },
+  "202238729206703001_tweeter" : {
+    "post_id" : "202238729206703001_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0 ], [ 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0 ], [ 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0 ] ],
+    "post_tokens" : [ "While", "they", "bring", "disease", "and", "ruin", "your", "walls", "and", "eat", "your", "foods", "without", "giving", "a", "shit", "about", "you", "Fuck", "if", "I", "care" ]
+  },
+  "202245386787505220_tweeter" : {
+    "post_id" : "202245386787505220_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1 ] ],
+    "post_tokens" : [ "Stop", "all", "Travel", "until", "isolated", "Stop", "illegals", "they", "bring", "damn", "disease" ]
+  },
+  "202286980699481054_tweeter" : {
+    "post_id" : "202286980699481054_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Clary",
+      "target" : [ "Other" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Other" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "Lying", "Liberals", "There", "is", "no", "line", "they", "won", "t", "cross", "to", "bring", "down", "the", "greatest", "President", "of", "ou\\u2026" ]
+  },
+  "20223883199708003_tweeter" : {
+    "post_id" : "20223883199708003_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Women'" ]
+    } ],
+    "rationales" : [ [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "Lmfao", "Feminism", "is", "really", "a", "disease", "now", "Women", "always", "trying", "to", "bring", "men", "down", "in", "all", "aspects", "of", "life" ]
+  },
+  "202297860453151227_tweeter" : {
+    "post_id" : "202297860453151227_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Women'" ]
+    } ],
+    "rationales" : [ [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1 ] ],
+    "post_tokens" : [ "These", "feminazis", "are", "bring", "on", "a", "new", "Victorian", "era", "Men", "became", "celibate", "to", "protect", "themselves", "from", "disease\\u2026" ]
+  },
+  "202283124014289344_tweeter" : {
+    "post_id" : "202283124014289344_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "Ching", "Chang", "Chong", "Do", "you", "understand", "chinky", "boy", "Does", "Communist", "government", "allow", "you", "to", "use\\u2026", "URL" ]
+  },
+  "202260891734499206_tweeter" : {
+    "post_id" : "202260891734499206_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "I", "HAVE", "NEVER", "EVER", "SEEN", "THIS", "MUCH", "\\ud83d\\udca9\\ud83d\\udca9\\ud83d\\udca9", "PACKED", "AROUND", "A", "SINGLE", "\\n", "\\nGU\\u2026" ]
+  },
+  "202250868451536317_tweeter" : {
+    "post_id" : "202250868451536317_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Women'" ]
+    } ],
+    "rationales" : [ [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "A", "feminist", "will", "spend", "hours", "telling", "you", "\\u201cmen", "are", "trash\\u201d\\n\\nThen", "start", "complaining", "about", "how", "they", "should", "be", "equal" ]
+  },
+  "20221307586222921_tweeter" : {
+    "post_id" : "20221307586222921_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Women'" ]
+    } ],
+    "rationales" : [ [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "The", "feminist", "movement", "has", "been", "the", "biggest", "threat", "to", "women", "in", "my", "lifetime", "In", "their", "effort", "to", "empow\\u2026" ]
+  },
+  "202276852432796177_tweeter" : {
+    "post_id" : "202276852432796177_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Caucasian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Caucasian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Caucasian'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "You", "cheating", "on", "me", "your", "black", "boyfriend", "with", "a", "WHIGGER" ]
+  },
+  "202254641612300398_tweeter" : {
+    "post_id" : "202254641612300398_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Caucasian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Caucasian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Caucasian'" ]
+    } ],
+    "rationales" : [ [ 1, 0, 0, 0, 1 ], [ 1, 0, 0, 0, 1 ], [ 1, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "\\fuck", "your", "optics\\", "ok", "whigger" ]
+  },
+  "202286803347452482_tweeter" : {
+    "post_id" : "202286803347452482_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "lol", "at", "how", "\\leading", "HBD", "bloggers\\", "a", "Bengali", "cuckold", "with", "a", "jarringly", "gay", "voice", "a", "dravidian", "male", "posing", "as", "a", "whit\\u2026" ]
+  },
+  "202227669638711879_tweeter" : {
+    "post_id" : "202227669638711879_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Caucasian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Caucasian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Caucasian'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "I", "m", "going", "with", "the", "whigger", "on", "this", "one", "Mike" ]
+  },
+  "202278346308865727_tweeter" : {
+    "post_id" : "202278346308865727_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Homosexual'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "call", "me", "a", "retarded", "cat", "thing", "alien", "thing", "again", "and", "ill", "fuck", "your", "cat", "in", "front", "if", "your", "gold", "fish", "faggot" ]
+  },
+  "202294134946528824_tweeter" : {
+    "post_id" : "202294134946528824_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Homosexual'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0 ], [ 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0 ], [ 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1 ] ],
+    "post_tokens" : [ "", "u", "r", "ugly", "and", "retarded", "u", "stupid", "piece", "of", "shit", "flaming", "faggot", "kill", "ur", "self" ]
+  },
+  "202246592957247964_tweeter" : {
+    "post_id" : "202246592957247964_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Homosexual'" ]
+    } ],
+    "rationales" : [ [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "This", "faggot", "next", "to", "me", "at", "the", "gym", "is", "a", "Sox", "fan", "and", "everyone", "looking", "at", "him", "like", "he\\u2019s", "retarded" ]
+  },
+  "202299042711861570_tweeter" : {
+    "post_id" : "202299042711861570_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Homosexual'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0 ] ],
+    "post_tokens" : [ "", "When", "people", "get", "offended", "by", "insults", "and", "jokes", "with", "words", "like", "retarded", "autistic", "faggot", "etc" ]
+  },
+  "202285551437446634_tweeter" : {
+    "post_id" : "202285551437446634_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Women'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "pal", "we", "re", "not", "always", "gonna", "be", "no", "the", "same", "wavelength", "you", "twat" ]
+  },
+  "20224029788920492_tweeter" : {
+    "post_id" : "20224029788920492_tweeter",
+    "annotators" : [ {
+      "label" : "normal'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "HMMM", "BOMB", "SCARES", "Stocks", "Falling", "Gas", "Prices", "Interest", "Rates", "Rising", "Migrants", "Marching", "Leftist", "Violence", "Made", "up" ]
+  },
+  "202256789095580786_tweeter" : {
+    "post_id" : "202256789095580786_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "African'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "What", "do", "you", "expect", "from", "expired", "country", "like", "Nigeria", "a", "shithole", "and", "fantastically", "corrupt", "one", "indeed", "Biafra", "Natio\\u2026" ]
+  },
+  "202259911728151247_tweeter" : {
+    "post_id" : "202259911728151247_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1 ] ],
+    "post_tokens" : [ "", "I", "want", "to", "punch", "his", "face", "so", "fucking", "much", "disrespectful", "ching", "chong" ]
+  },
+  "202231420375905934_tweeter" : {
+    "post_id" : "202231420375905934_tweeter",
+    "annotators" : [ {
+      "label" : "normal'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Not", "everybody", "wants", "to", "hear", "ching", "chang", "Chong", "sir", "Also", "I", "bet", "you", "dont", "even", "know", "Japanese" ]
+  },
+  "202210634966580351_tweeter" : {
+    "post_id" : "202210634966580351_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 1, 1, 1, 1, 0, 0, 0, 0, 0, 0 ], [ 1, 1, 1, 1, 0, 0, 0, 0, 0, 0 ], [ 1, 1, 1, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Ching", "Chong", "Ring", "Rong", "I", "don", "t", "speak", "the", "language" ]
+  },
+  "20229773080586469_tweeter" : {
+    "post_id" : "20229773080586469_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 1, 1, 0, 1 ], [ 1, 1, 0, 1 ], [ 1, 1, 0, 1 ] ],
+    "post_tokens" : [ "", "Ching", "Chong", "lookin", "ass" ]
+  },
+  "202274355742739858_tweeter" : {
+    "post_id" : "202274355742739858_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1 ] ],
+    "post_tokens" : [ "", "since", "im", "japanese", "heres", "some", "japanese", "terms", "ill", "teach", "u", "ching", "chong", "ling", "long", "long", "d0ng" ]
+  },
+  "202253507925294785_tweeter" : {
+    "post_id" : "202253507925294785_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "African'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 1, 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0, 0, 0, 1 ], [ 0, 0, 1, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "why", "do", "niggas", "act", "like", "they", "are", "retarded" ]
+  },
+  "202278083468732174_tweeter" : {
+    "post_id" : "202278083468732174_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "personal'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 0, 1, 0, 1, 1 ], [ 0, 0, 0, 1, 1, 1, 0, 1, 1 ], [ 0, 0, 0, 1, 1, 1, 0, 1, 1 ] ],
+    "post_tokens" : [ "", "SEE", "U", "IN", "HELL", "DOWNY", "SCREW", "YOUR", "STUPID", "ASS" ]
+  },
+  "202281024644605263_tweeter" : {
+    "post_id" : "202281024644605263_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Homosexual'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Homosexual'" ]
+    } ],
+    "rationales" : [ [ 1, 1, 0, 0, 0, 0, 0, 0, 1 ], [ 1, 1, 0, 0, 0, 0, 0, 0, 1 ], [ 1, 1, 0, 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "Faggot", "fucking", "sellout", "no", "iq", "pebble", "brain", "autistic", "slut" ]
+  },
+  "202268892724270579_tweeter" : {
+    "post_id" : "202268892724270579_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Are", "you", "a", "chinaman", "or", "a", "wetback", "Looks", "like", "a", "combo", "to", "me" ]
+  },
+  "202297064269865842_tweeter" : {
+    "post_id" : "202297064269865842_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "African'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0 ] ],
+    "post_tokens" : [ "", "Laflare", "VibeHi", "did", "all", "that", "MAGA", "tap", "dancing", "and", "they", "still", "kicked", "him", "out", "the", "White", "House", "like", "the", "nigger", "he", "is" ]
+  },
+  "202237126699894689_tweeter" : {
+    "post_id" : "202237126699894689_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "personal'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0 ] ],
+    "post_tokens" : [ "", "is", "a", "disgrace", "it", "wants", "to", "trash", "the", "US", "and", "make", "it", "another", "shithole", "country" ]
+  },
+  "202249748917739844_tweeter" : {
+    "post_id" : "202249748917739844_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "unknown'" ]
+    } ],
+    "rationales" : [ [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Poor", "Sweden", "Turning", "into", "shithole", "country", "But", "those", "eurofruits", "don\\u2019t", "want", "to", "help", "themselves", "so", "w\\u2026" ]
+  },
+  "20221068964295655_tweeter" : {
+    "post_id" : "20221068964295655_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Arab' " ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Arab'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Arab'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Boutta", "hit", "the", "raghead", "tire", "shop", "again", "with", "Zane", "\\ud83d\\ude02\\ud83d\\ude02" ]
+  },
+  "202226169054506410_tweeter" : {
+    "post_id" : "202226169054506410_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Arab " ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Arab'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Arab'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 0, 0, 1 ], [ 0, 0, 0, 0, 1, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "No", "one", "gives", "a", "crap", "about", "this", "raghead" ]
+  },
+  "202275279124838570_tweeter" : {
+    "post_id" : "202275279124838570_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Arab " ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Arab'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Arab'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0 ] ],
+    "post_tokens" : [ "", "I\\u2019ve", "never", "seen", "a", "story", "so", "overhyped", "as", "this", "Jamal", "Khashoggi", "bullshit", "Americans", "don\\u2019t", "care", "if", "some", "raghead", "reporte\\u2026" ]
+  },
+  "202283697082187666_tweeter" : {
+    "post_id" : "202283697082187666_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Arab " ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Arab'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Arab'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "I", "wanna", "kill", "em", "raghead", "style", "pour", "acid", "on", "them", "and", "shove", "razor", "wire", "up", "their", "ass", "that", "s", "what", "th\\u2026" ]
+  },
+  "202226691757150383_tweeter" : {
+    "post_id" : "202226691757150383_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Never", "see", "me", "going", "to", "a", "Country" ]
+  },
+  "202224320823225292_tweeter" : {
+    "post_id" : "202224320823225292_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Jewish'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Jewish'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Jewish'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "You", "re", "obsessed", "negro", "jew", "\\n\\nI", "m", "not", "bowing", "to", "your", "bullshit", "ever", "You", "deaf", "lesion", "brained", "con", "\\n\\nI", "will", "keep", "tellin\\u2026" ]
+  },
+  "202236208363261317_tweeter" : {
+    "post_id" : "202236208363261317_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "African'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "African'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "African'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0 ] ],
+    "post_tokens" : [ "", "Hodgetwins", "react", "was", "called", "a", "\\u201ctoken", "negro\\u201d", "and", "a", "\\u201cdumb", "negro\\u201d", "\\nCNN", "is", "full", "blown", "RACIST", "\\u2026" ]
+  },
+  "202280553579149186_tweeter" : {
+    "post_id" : "202280553579149186_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "African'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "African'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "African'" ]
+    } ],
+    "rationales" : [ [ 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Black", "own", "businesses", "is", "gone", "bc", "of", "illegal", "immigrants", "\\nThink", "abt", "it", "if", "undocumented", "ppl", "are", "illegal", "then", "legal" ]
+  },
+  "202252612062576658_tweeter" : {
+    "post_id" : "202252612062576658_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Women'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Women'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "If", "you", "are", "making", "jokes", "about", "the", "scenes", "in", "Leicester", "right", "now", "you", "re", "a", "cunt" ]
+  },
+  "202270568239052501_tweeter" : {
+    "post_id" : "202270568239052501_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "You", "are", "a", "green", "tea", "drinking", "muzzie", "doing", "taqqiya", "by", "drinking", "Brahminical", "hindu", "coffee", "and", "non", "brahminical", "hindu", "tea", "\\ud83d\\ude02\\ud83d\\ude02\\ud83d\\ude02" ]
+  },
+  "202223249403682616_tweeter" : {
+    "post_id" : "202223249403682616_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian'" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 1, 0, 0, 1, 0 ], [ 1, 1, 0, 0, 0, 0, 1, 0 ] ],
+    "post_tokens" : [ "", "Green", "tea", "You", "muzzie", "Stop", "your", "taqqiya", "\\ud83d\\ude02\\ud83d\\ude02" ]
+  },
+  "202277948702144406_tweeter" : {
+    "post_id" : "202277948702144406_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "African'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "African'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "African'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "His", "fake", "rap", "is", "nauseating", "He", "s", "a", "Muzzie", "and", "never", "did", "squat", "for", "Black", "Americans", "He", "s", "ou\\u2026" ]
+  },
+  "202253115627130147_tweeter" : {
+    "post_id" : "202253115627130147_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Brother", "Nature", "ain", "t", "black", "no", "more", "huh", "He", "just", "a", "spic", "to", "y", "all", "now", "right", "Ain", "t", "trying", "to", "hold", "the", "dominirican", "homie", "down", "at", "a" ]
+  },
+  "202257195143182238_tweeter" : {
+    "post_id" : "202257195143182238_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "other'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0 ], [ 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0 ], [ 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0 ] ],
+    "post_tokens" : [ "", "Teddy", "fat", "sorry", "ass", "wrong", "for", "how", "he", "doing", "Jadah", "all", "because", "he", "want", "that", "wetback", "Tati", "\\ud83d\\ude12\\ud83e\\udd2c", "his", "lame", "no", "pussy", "getting\\u2026" ]
+  },
+  "202221302227592626_tweeter" : {
+    "post_id" : "202221302227592626_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1, 1 ], [ 0, 0, 0, 0, 0, 1, 1 ], [ 0, 0, 0, 0, 0, 1, 1 ] ],
+    "post_tokens" : [ "", "Go", "back", "to", "Guatemala", "you", "stinking", "wetbac" ]
+  },
+  "202217154743326539_tweeter" : {
+    "post_id" : "202217154743326539_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Clary",
+      "target" : [ "Refugee'" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "Refugee'" ]
+    } ],
+    "rationales" : [ [ 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Communist", "wetback", "douchebag", "is", "such", "a", "drag", "on", "his", "team", "send", "him", "back", "to", "cuba" ]
+  }
+}

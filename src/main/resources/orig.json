@@ -1,0 +1,51 @@
+{
+  "1179055004553900032_twitter": {
+    "post_id": "1179055004553900032_twitter",
+    "annotators": [
+      {
+        "label": "normal",
+        "annotator_id": 1,
+        "target": [
+          "None"
+        ]
+      },
+      {
+        "label": "normal",
+        "annotator_id": 2,
+        "target": [
+          "None"
+        ]
+      },
+      {
+        "label": "normal",
+        "annotator_id": 3,
+        "target": [
+          "None"
+        ]
+      }
+    ],
+    "rationales": [],
+    "post_tokens": [
+      "i",
+      "dont",
+      "think",
+      "im",
+      "getting",
+      "my",
+      "baby",
+      "them",
+      "white",
+      "9",
+      "he",
+      "has",
+      "two",
+      "white",
+      "j",
+      "and",
+      "nikes",
+      "not",
+      "even",
+      "touched"
+    ]
+  }
+}
