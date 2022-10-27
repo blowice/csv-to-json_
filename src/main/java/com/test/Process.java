@@ -24,7 +24,7 @@ public class Process {
         Result result = new Result();
         AnnotatorParent annotatorParent = new AnnotatorParent();
         try (BufferedReader reader = new BufferedReader
-                (new InputStreamReader(new FileInputStream("C:\\workspace\\csv-to-json\\src\\main\\resources\\input.csv"), StandardCharsets.UTF_8))) {
+                (new InputStreamReader(new FileInputStream("C:\\workspace\\csv-to-json\\src\\main\\resources\\input2.csv"), StandardCharsets.UTF_8))) {
             String line;
             while ((line = reader.readLine()) != null) {
                 if (!line.isBlank() && Character.isDigit(line.charAt(0)) && annotatorParent.getPost_id() != null) {
@@ -73,8 +73,9 @@ public class Process {
             annotator.setTarget(Arrays.asList(tokens[2]));
             List<Integer> rationales = new LinkedList<>();
             for (int i = 3; i < tokens.length; i++) {
-                if (tokens[i]=="") {
+                if (tokens[i].equals("")) {
                     System.out.println("!!!!!" + line);
+                    continue;
                 }
                 rationales.add(Integer.valueOf(tokens[i]));
             }

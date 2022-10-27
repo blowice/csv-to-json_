@@ -1,0 +1,884 @@
+{
+  "202271234819374164_tweeter" : {
+    "post_id" : "202271234819374164_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech'",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ ], [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "43Watch", "Bill", "Blair", "is", "a", "liar", "and", "an", "incompetent", "politician", "do", "not", "trust", "Trudeau", "his", "PMO", "his" ]
+  },
+  "202286621642816856_tweeter" : {
+    "post_id" : "202286621642816856_tweeter",
+    "annotators" : [ {
+      "label" : "normal'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "Oh", "huh", "ya", "look", "at", "that", "came", "from" ]
+  },
+  "202270076496768511_tweeter" : {
+    "post_id" : "202270076496768511_tweeter",
+    "annotators" : [ {
+      "label" : "offensive'",
+      "annotator_id" : "Abreen",
+      "target" : [ "Chinese" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Clary",
+      "target" : [ "Chinese" ]
+    }, {
+      "label" : "offensive'",
+      "annotator_id" : "Lei",
+      "target" : [ "Chinese" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "Why", "would", "they", "not", "after", "the", "hysteria", "and", "utter", "madness", "of", "the", "communist", "inspired", "lock", "downs" ]
+  },
+  "20226174138634896_tweeter" : {
+    "post_id" : "20226174138634896_tweeter",
+    "annotators" : [ {
+      "label" : "normal'",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal'",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0 ], [ 0, 0 ], [ 0, 0 ] ],
+    "post_tokens" : [ "in", "short" ]
+  },
+  "202294029739425649_tweeter" : {
+    "post_id" : "202294029739425649_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "unknown" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "They", "a", "joke", "They", "disgraced", "themselves", "I", "would", "never", "put", "the", "well", "being", "of", "my", "family", "in", "their", "hands", "and", "you" ]
+  },
+  "202275083095983040_tweeter" : {
+    "post_id" : "202275083095983040_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "Sick", "of", "hearing", "that", "reclining", "your", "seat", "on", "a", "plane", "is", "a", "dick", "move", "The", "people", "not", "reclining", "are", "the", "problem", "If", "ev" ]
+  },
+  "202263371738259506_tweeter" : {
+    "post_id" : "202263371738259506_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "Not", "according", "to", "the", "bank", "of", "America", "reckon", "consumers", "are", "as", "cashed", "up", "as", "they", "were", "prior", "to" ]
+  },
+  "202251621052154917_tweeter" : {
+    "post_id" : "202251621052154917_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian" ]
+    }, {
+      "label" : "offensive",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian" ]
+    } ],
+    "rationales" : [ [ 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "This", "Wuhan", "virus", "is", "really", "annoying", "Thankfully", "I", "don", "have", "it", "but", "I", "have", "a", "friend", "that", "just", "caught", "it", "and", "I", "p" ]
+  },
+  "202272686717140011_tweeter" : {
+    "post_id" : "202272686717140011_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "The", "is", "funding", "this", "I", "want", "to", "know", "WHY", "and", "when", "the", "NIH", "will", "be", "deemed", "a", "organization", "Its", "more", "than" ]
+  },
+  "202221304463855513_tweeter" : {
+    "post_id" : "202221304463855513_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "All", "the", "old", "people", "who", "believed", "that", "shit", "in", "the", "1970s", "were", "killed", "by", "the", "in", "2020" ]
+  },
+  "202283547509701064_tweeter" : {
+    "post_id" : "202283547509701064_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "The", "is", "funding", "this", "I", "want", "to", "know", "WHY", "and", "when", "the", "NIH", "will", "be", "deemed", "a", "organization", "Its", "more", "than" ]
+  },
+  "20225474354819644_tweeter" : {
+    "post_id" : "20225474354819644_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Cue", "viral", "videos", "of", "people", "allegedly", "dropping", "dead", "in", "the", "streets" ]
+  },
+  "202224057072620967_tweeter" : {
+    "post_id" : "202224057072620967_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "So", "if", "the", "vaccines", "don", "t", "stop", "you", "from", "getting", "the", "AND", "don", "t", "stop", "you", "from", "spreading", "the", "the" ]
+  },
+  "202235978087743292_tweeter" : {
+    "post_id" : "202235978087743292_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "So", "if", "the", "vaccines", "don", "t", "stop", "you", "from", "getting", "the", "AND", "don", "t", "stop", "you", "from", "spreading", "the" ]
+  },
+  "20226200177305469_tweeter" : {
+    "post_id" : "20226200177305469_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "Why", "it", "called", "encephalitis", "that", "racist" ]
+  },
+  "202261264833806919_tweeter" : {
+    "post_id" : "202261264833806919_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Where", "is", "the", "Part", "you", "know", "where", "bio", "attacked", "everyone", "yourselves" ]
+  },
+  "202271571706629254_tweeter" : {
+    "post_id" : "202271571706629254_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Riech", "posts", "like", "an", "enemy", "of", "the", "US", "which", "is", "technically", "bankrupt", "due", "to", "the", "stimulus", "cheques", "and", "other" ]
+  },
+  "2022441876275850_tweeter" : {
+    "post_id" : "2022441876275850_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "Why", "it", "called", "encephalitis", "that", "racist" ]
+  },
+  "202274661837388198_tweeter" : {
+    "post_id" : "202274661837388198_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "When", "declared", "an", "emergency", "due", "to", "the", "turned", "power", "over", "to", "in", "retu" ]
+  },
+  "202224252943863908_tweeter" : {
+    "post_id" : "202224252943863908_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 1, 1, 0, 0, 0 ], [ 0, 1, 0, 1, 0, 1, 0, 0, 0 ], [ 1, 1, 1, 1, 1, 1, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "must", "pay", "for", "releasing", "the", "virus", "on", "the", "world" ]
+  },
+  "202220775735822625_tweeter" : {
+    "post_id" : "202220775735822625_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "Why", "it", "called", "encephalitis", "that", "racist" ]
+  },
+  "202283501818322860_tweeter" : {
+    "post_id" : "202283501818322860_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "Why", "it", "called", "encephalitis", "that", "racist" ]
+  },
+  "20224665237916916_tweeter" : {
+    "post_id" : "20224665237916916_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 1, 1 ], [ 0, 0, 1, 1 ], [ 0, 0, 1, 1 ] ],
+    "post_tokens" : [ "", "No", "thanks", "Lied", "Died" ]
+  },
+  "202256405513973915_tweeter" : {
+    "post_id" : "202256405513973915_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1 ] ],
+    "post_tokens" : [ "", "No", "caused", "inflation", "Trump", "inherited", "the", "that", "may", "have", "been", "hatched", "by", "Tony", "Youknowwho" ]
+  },
+  "202297443767427150_tweeter" : {
+    "post_id" : "202297443767427150_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "This", "is", "old", "new", "but", "still", "very", "relevant", "this", "is", "f", "up", "6", "weeks", "before", "before", "showed", "up" ]
+  },
+  "202217047243801048_tweeter" : {
+    "post_id" : "202217047243801048_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Lunacy", "another", "push", "to", "sell", "and", "unload", "the", "170", "million", "plus", "doses", "of", "a", "vaccine", "er", "shot", "that", "does", "not", "stop", "any", "vi" ]
+  },
+  "202293685858304046_tweeter" : {
+    "post_id" : "202293685858304046_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Boomers", "and", "the", "Silent", "Generation", "still", "hold", "prime", "positions", "of", "power", "including", "the", "presidency" ]
+  },
+  "202295393194303903_tweeter" : {
+    "post_id" : "202295393194303903_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0 ], [ 0, 0, 0 ], [ 0, 0, 0 ] ],
+    "post_tokens" : [ "", "in", "a", "day" ]
+  },
+  "202221843521932442_tweeter" : {
+    "post_id" : "202221843521932442_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "3rd", "contraction", "of", "the", "coming", "in", "3", "2", "1" ]
+  },
+  "202231447354105357_tweeter" : {
+    "post_id" : "202231447354105357_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "3rd", "contraction", "of", "the", "coming", "in", "3", "2", "1" ]
+  },
+  "2022365432069241_tweeter" : {
+    "post_id" : "2022365432069241_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "warning", "against", "contact", "with", "animals" ]
+  },
+  "202233250312176522_tweeter" : {
+    "post_id" : "202233250312176522_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "What", "good", "is", "a", "revolution", "if", "it", "isn", "permanent" ]
+  },
+  "202244356376587534_tweeter" : {
+    "post_id" : "202244356376587534_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "I", "have", "several", "family", "members", "and", "many", "friends", "who", "got", "vaxxed", "and", "continue", "to", "get", "the" ]
+  },
+  "202232399203405907_tweeter" : {
+    "post_id" : "202232399203405907_tweeter",
+    "annotators" : [ {
+      "label" : "offensive ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "when", "it", "s", "mass", "murdering", "you", "call", "it", "what", "it", "is" ]
+  },
+  "202255477615964561_tweeter" : {
+    "post_id" : "202255477615964561_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "More", "Republicans", "died", "because", "they", "followed", "Trump", "s", "lie", "about", "the", "and", "didn", "t", "get" ]
+  },
+  "202233603044474146_tweeter" : {
+    "post_id" : "202233603044474146_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Who", "would", "want", "to", "go", "to", "cannot", "be", "trusted" ]
+  },
+  "202296037924178283_tweeter" : {
+    "post_id" : "202296037924178283_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Impact", "on", "farmers", "should", "buy", "it", "through", "MARKFED", "for", "support", "price" ]
+  },
+  "202234527083073277_tweeter" : {
+    "post_id" : "202234527083073277_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0 ], [ 0, 0 ], [ 0, 0 ] ],
+    "post_tokens" : [ "", "Trump", "Won" ]
+  },
+  "202285787974554127_tweeter" : {
+    "post_id" : "202285787974554127_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "is", "the", "first", "to", "find", "this", "new", "strain", "Sounds", "like", "didnt", "do", "wha" ]
+  },
+  "20225069131419160_tweeter" : {
+    "post_id" : "20225069131419160_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "offensive",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "This", "Covid", "variant", "is", "killing", "my", "sinuses", "Smell", "is", "now", "gone", "as", "well" ]
+  },
+  "202289919176512880_tweeter" : {
+    "post_id" : "202289919176512880_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "needs", "to", "come", "back", "some", "of", "the", "story", "line", "is", "now", "about", "story", "line" ]
+  },
+  "202292508885698536_tweeter" : {
+    "post_id" : "202292508885698536_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 1, 1, 1 ], [ 0, 0, 0, 0, 1, 1, 1 ], [ 0, 0, 0, 0, 1, 1, 1 ] ],
+    "post_tokens" : [ "", "I", "m", "not", "eating", "tainted", "vaccinated", "meat" ]
+  },
+  "202217219938393250_tweeter" : {
+    "post_id" : "202217219938393250_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "We", "students", "of", "had", "to", "go", "through", "all", "the", "semester", "and", "also", "do", "our", "mini", "and", "main", "project", "in", "the", "pandemic", "time" ]
+  },
+  "202269047287005382_tweeter" : {
+    "post_id" : "202269047287005382_tweeter",
+    "annotators" : [ {
+      "label" : "normal ",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal ",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "warning", "against", "contact", "with", "animals" ]
+  },
+  "20221289450717841_tweeter" : {
+    "post_id" : "20221289450717841_tweeter",
+    "annotators" : [ {
+      "label" : "hatespeech ",
+      "annotator_id" : "Abreen",
+      "target" : [ "Asian" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Clary",
+      "target" : [ "Asian" ]
+    }, {
+      "label" : "hatespeech ",
+      "annotator_id" : "Lei",
+      "target" : [ "Asian" ]
+    } ],
+    "rationales" : [ [ 0, 0, 1, 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0, 1, 0, 0 ], [ 0, 0, 1, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Covid", "was", "released", "from", "a", "lab", "in", "China" ]
+  },
+  "202222456621025979_tweeter" : {
+    "post_id" : "202222456621025979_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "LOOOOL", "a", "suit", "from", "a", "big", "Cubano", "clearly", "the", "silk", "markets", "in", "China", "now", "closed", "due", "to", "the" ]
+  },
+  "202278595017479256_tweeter" : {
+    "post_id" : "202278595017479256_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "LOOOOL", "a", "suit", "from", "a", "big", "Cubano", "clearly", "the", "silk", "markets", "in", "China", "now", "closed", "due", "to", "the" ]
+  },
+  "202215785677977454_tweeter" : {
+    "post_id" : "202215785677977454_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] ],
+    "post_tokens" : [ "", "It", "was", "happening", "before", "the", "so", "we", "can", "t", "blame", "it", "all", "on", "that" ]
+  },
+  "202289270466794431_tweeter" : {
+    "post_id" : "202289270466794431_tweeter",
+    "annotators" : [ {
+      "label" : "normal",
+      "annotator_id" : "Abreen",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Clary",
+      "target" : [ "" ]
+    }, {
+      "label" : "normal",
+      "annotator_id" : "Lei",
+      "target" : [ "" ]
+    } ],
+    "rationales" : [ [ 0, 0, 0 ], [ 0, 0, 0 ], [ 0, 0, 0 ] ],
+    "post_tokens" : [ "", "Just", "the", "shot" ]
+  }
+}
